@@ -1,0 +1,11 @@
+Debug
+include
+Release 
+*.vcxproj 
+*.filters 
+*.user
+res
+*.txt
+*.dll
+*.lib
+logger.h
