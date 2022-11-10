@@ -8,3 +8,4 @@ res
 *.txt
 *.dll
 *.lib
+logger.h
